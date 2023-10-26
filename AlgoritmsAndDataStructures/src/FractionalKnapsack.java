@@ -3,7 +3,8 @@ import java.util.Comparator;
 
 /// ЗАДАЧА О РЮКЗАКЕ (Fractional Knapsack) ///
 // Хотим максимизировать кол-во каллорий(ценность какая-либо), которые возьмём с собой, при этом любой объект можно делить на части 
-	
+
+
 
 public class FractionalKnapsack {
 	public static void main(String[] args) {
